@@ -1,0 +1,275 @@
+<h3>#1 World's Leading Indices Trading Investment platform</h3>
+<h1 data-wow-delay=".3s">Next generation trading platform.</h1>
+<p data-wow-delay=".5s">Start Trading with no prior Knowledge, Earn passive income from the $2trillion plus emerging market, Trade Stock Indices and Crypto on the go. Earn 40% 4 weeks.</p>
+<a href="https://invest.biantrex.com/register/">
+Get Started </a>
+<a href="https://invest.biantrex.com/how-it-works">
+More Info </a>
+<ul data-wow-delay="0.7s">
+ 	<li>85% working strategy</li>
+ 	<li>Low Lot Size</li>
+</ul>
+<ul>
+ 	<li><img src="https://quiety-wp.themetags.com/wp-content/uploads/2021/11/awards-01.svg" alt="Brand #1" /></li>
+</ul>
+<!-- /.banner__brand-logos -->
+<!-- /.banner__brand-logo-wrapper -->
+<img src="https://invest.biantrex.com/wp-content/uploads/2022/05/biantrex-invest.png" alt="Next generation trading platform." data-wow-delay="0.5s" />
+<ul>
+ 	<li data-depth="Array"><img src="https://quiety-wp.themetags.com/wp-content/plugins/quiety-core/elementor/assets/images/banner3_shape.svg" alt="Next generation trading platform." />
+<!-- /.inner --></li>
+ 	<li data-depth="0.01"><img src="https://quiety-wp.themetags.com/wp-content/plugins/quiety-core/elementor/assets/images/banner3_shape2.svg" alt="Next generation trading platform." />
+<!-- /.inner --></li>
+ 	<li data-depth="0.01"><img src="https://quiety-wp.themetags.com/wp-content/plugins/quiety-core/elementor/assets/images/banner/shape-2.svg" alt="Next generation trading platform." />
+<!-- /.inner --></li>
+ 	<li data-depth="0.01"><img src="https://quiety-wp.themetags.com/wp-content/plugins/quiety-core/elementor/assets/images/feature-3.svg" alt="Next generation trading platform." />
+<!-- /.inner --></li>
+</ul>
+<!-- /.animate-element -->
+<!-- /.banner-feature-image -->
+<!-- /.col-md-6 -->
+<!-- /.icon-container -->
+<h2>How it Works</h2>
+How Biantrex Investment Platform Work
+<!-- /.icon-container -->
+<!-- /.icon-container -->
+<h4>Step 1</h4>
+<h3>Sign up</h3>
+Create an Account
+
+<!-- /.tt-icon-box -->
+<!-- /.col-md-3 -->
+<!-- /.icon-container -->
+<!-- /.icon-container -->
+<h4>Step 2</h4>
+<h3>Choose Investment Plan</h3>
+Select Plan and Fund
+
+<!-- /.tt-icon-box -->
+<!-- /.col-md-3 -->
+<!-- /.icon-container -->
+<!-- /.icon-container -->
+<h4>Step 3</h4>
+<h3>We Trade</h3>
+Our system trade for you
+
+<!-- /.tt-icon-box -->
+<!-- /.col-md-3 -->
+<!-- /.icon-container -->
+<!-- /.icon-container -->
+<h4>Step 4</h4>
+<h3>Withdraw</h3>
+Earn 40% ROI
+
+<!-- /.tt-icon-box -->
+<!-- /.col-md-3 -->
+<!-- /.row -->
+<!-- /.prosess-box-wrapper -->
+
+<style>/*! elementor - v3.7.1 - 14-08-2022 */<br />
+.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}.e-container{--container-widget-width:100%}.e-container>.elementor-widget-spacer{width:var(--container-widget-width,var(--spacer-size));-ms-flex-item-align:stretch;align-self:stretch;-ms-flex-negative:0;flex-shrink:0}.e-container>.elementor-widget-spacer>.elementor-widget-container,.e-container>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer{height:100%}.e-container>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner{height:var(--container-widget-height,var(--spacer-size))}</style>
+
+<!-- /.icon-container -->
+<h2>Invest and Trade
+more wisely.</h2>
+You don't need to be an expert to build your cryptocurrency portfolio and
+digital wealth
+
+<!-- /.icon-container -->
+<h3>Securing your profit</h3>
+We trade with 85% winning strategy and risk management that Guaranteed maximum profit.
+
+<a href="#">
+Learn More
+<!-- /.button-text-wrapper -->
+</a>
+<!-- /.tt-icon-box -->
+
+<!-- /.icon-container -->
+<h3>Transparent Dashboard</h3>
+The latest technologies are being used to create and manage your account trades records and earnings.
+
+<a href="#">
+Learn More
+<!-- /.button-text-wrapper -->
+</a>
+<!-- /.tt-icon-box -->
+
+<!-- /.icon-container -->
+<h3>Risk management</h3>
+Each portfolio has its own risk considerations and risk management plans set aside to avoid loss of funds.
+
+<a href="#">
+Learn More
+<!-- /.button-text-wrapper -->
+</a>
+<!-- /.tt-icon-box -->
+
+<style>/*! elementor - v3.7.1 - 14-08-2022 */<br />
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>
+
+<img src="https://invest.biantrex.com/wp-content/uploads/2022/05/BINV.png" sizes="(max-width: 853px) 100vw, 853px" srcset="https://invest.biantrex.com/wp-content/uploads/2022/05/BINV.png 853w, https://invest.biantrex.com/wp-content/uploads/2022/05/BINV-125x150.png 125w, https://invest.biantrex.com/wp-content/uploads/2022/05/BINV-540x648.png 540w, https://invest.biantrex.com/wp-content/uploads/2022/05/BINV-250x300.png 250w, https://invest.biantrex.com/wp-content/uploads/2022/05/BINV-768x922.png 768w" alt="" width="853" height="1024" />
+<img src="https://invest.biantrex.com/wp-content/uploads/2022/03/about2.png" sizes="(max-width: 240px) 100vw, 240px" srcset="https://invest.biantrex.com/wp-content/uploads/2022/03/about2.png 240w, https://invest.biantrex.com/wp-content/uploads/2022/03/about2-145x150.png 145w" alt="" width="240" height="248" />
+6
++
+<!-- /.counter-wrap -->
+<h3>Years Experience</h3>
+<!-- /.count-info-wrapper -->
+<!-- /.icon-container -->
+<h2>Auto-invest in the whole crypto market with a single click.</h2>
+Eliminating the risk factor to earn from digital assets, the platform is created to offer exclusive interest return.
+
+Earn up to 40% ROI/Month and 4% Affiliate Bonus when your invite trade with Biantrex Indices Investment system. You earn a total of 40% of your equity every week for 1month. e.g. If you Signup for B500 ($500) Trading plan, you will earn $188 every week for 1month with total ROI of ($750). You can earn a bonus of 10% for inviting a friend to the system.
+
+Instruments available to trade are:
+
+<!-- /.icon-container -->
+<h3>Vol (1s) IndeX</h3>
+VIX is the ticker symbol and the popular name for the Chicago Board Options Exchange's CBOE Volatility Index.
+
+<a href="#">
+<!-- /.button-text-wrapper -->
+</a>
+<!-- /.tt-icon-box -->
+
+<!-- /.icon-container -->
+<h3>Step Index</h3>
+Step Index is a type CFD that can be traded on MT5 under Deriv Broker, Trading StepIndex Can get you a quick return.
+
+<a href="#">
+<!-- /.button-text-wrapper -->
+</a>
+<!-- /.tt-icon-box -->
+<a href="#" target="_blank" rel="noopener">
+<img src="https://invest.biantrex.com/wp-content/uploads/2022/05/platforms_deriv_go.webp" alt="image" />
+</a>
+<!-- /.icon-container -->
+<h2>Discover &amp; Trade</h2>
+Get easy access to trade Stock Indices, Cryptocurrencies, FX &amp; Commodities markets from a single account with no trading experience. You can also earn passive income with the affiliate program. You can trade Step Index, Vix 10, US500 &amp;100+ assets via Biantrex Investment System.
+
+<!-- /.icon-container -->
+<h2>Why Choose Us</h2>
+Let top traders do the job for you! We have the best proven strategy with good risk management for every trades account. You can Improve your crypto portfolio and Financial Stability with our industry-leading technology.
+
+<img src="https://quiety-wp.themetags.com/wp-content/uploads/2022/01/team.png" alt="85% Accurate Strategy" />
+<!-- /.icon-container -->
+<h3>85% Accurate Strategy</h3>
+<!-- /.tt-icon-box -->
+<img src="https://quiety-wp.themetags.com/wp-content/uploads/2022/01/pie-chart.png" alt="Increase profitability" />
+<!-- /.icon-container -->
+<h3>Increase profitability</h3>
+<!-- /.tt-icon-box -->
+<img src="https://quiety-wp.themetags.com/wp-content/uploads/2022/01/team.png" alt="Maximize profits with leverage" />
+<!-- /.icon-container -->
+<h3>Maximize profits with leverage</h3>
+<!-- /.tt-icon-box -->
+<img src="https://quiety-wp.themetags.com/wp-content/uploads/2022/01/pie-chart.png" alt="Affiliate Program Opportunity " />
+<!-- /.icon-container -->
+<h3>Affiliate Program Opportunity</h3>
+<!-- /.tt-icon-box -->
+<img src="https://invest.biantrex.com/wp-content/uploads/2022/05/invs-biantrex.png" sizes="(max-width: 511px) 100vw, 511px" srcset="https://invest.biantrex.com/wp-content/uploads/2022/05/invs-biantrex.png 511w, https://invest.biantrex.com/wp-content/uploads/2022/05/invs-biantrex-300x294.png 300w, https://invest.biantrex.com/wp-content/uploads/2022/05/invs-biantrex-150x147.png 150w" alt="" width="511" height="500" />
+<!-- /.icon-container -->
+<h2>Signup &amp; Start earning passive income</h2>
+<a href="https://invest.biantrex.com/register">
+Signup
+</a>
+<!-- /.icon-container -->
+<h2>Trading Package</h2>
+Choose from the following trading plans.
+<h2>B200</h2>
+<h3>$200</h3>
+<ul>
+ 	<li>$280 Total ROI</li>
+ 	<li>1 Month System Circle</li>
+ 	<li>10% Referral Bonus</li>
+ 	<li>24/7 Support</li>
+</ul>
+<!-- /.tt-pricing__feature-list -->
+<!-- /.tt-pricing__feature-lists -->
+<a class="tt-btn btn-outline " href="https://invest.biantrex.com/register">
+Sign Up </a>
+<!-- /.gp-pricing__action -->
+<!-- /.tt-pricing -->
+<h2>B500</h2>
+<h3>$500</h3>
+<ul>
+ 	<li>$700 Total ROI</li>
+ 	<li>1 Month System Circle</li>
+ 	<li>10% Referral Bonus</li>
+ 	<li>24/7 Support</li>
+</ul>
+<!-- /.tt-pricing__feature-list -->
+<!-- /.tt-pricing__feature-lists -->
+<a class="tt-btn featured_btn " href="https://invest.biantrex.com/register">
+Sign Up </a>
+<!-- /.gp-pricing__action -->
+<!-- /.tt-pricing -->
+<h2>B1,000</h2>
+<h3>$1,000</h3>
+<ul>
+ 	<li>$1,400 Total ROI</li>
+ 	<li>1 Month System Circle</li>
+ 	<li>10% Referral Bonus</li>
+ 	<li>24/7 Support</li>
+</ul>
+<!-- /.tt-pricing__feature-list -->
+<!-- /.tt-pricing__feature-lists -->
+<a class="tt-btn btn-outline " href="https://invest.biantrex.com/register">
+Sign Up </a>
+<!-- /.gp-pricing__action -->
+<!-- /.tt-pricing -->
+<h2>B2000</h2>
+<h3>$2,000</h3>
+<ul>
+ 	<li>$2,800 Total ROI</li>
+ 	<li>1 Month System Circle</li>
+ 	<li>10% Referral Bonus</li>
+ 	<li>24/7 Support</li>
+</ul>
+<!-- /.tt-pricing__feature-list -->
+<!-- /.tt-pricing__feature-lists -->
+<a class="tt-btn btn-outline " href="https://invest.biantrex.com/register">
+Sign Up </a>
+<!-- /.gp-pricing__action -->
+<!-- /.tt-pricing -->
+<h2>B500</h2>
+<h3>$5,000</h3>
+<ul>
+ 	<li>$7000 Total ROI</li>
+ 	<li>1 Month System Circle</li>
+ 	<li>10% Referral Bonus</li>
+ 	<li>24/7 Support</li>
+</ul>
+<!-- /.tt-pricing__feature-list -->
+<!-- /.tt-pricing__feature-lists -->
+<a class="tt-btn featured_btn " href="https://invest.biantrex.com/register">
+Sign Up </a>
+<!-- /.gp-pricing__action -->
+<!-- /.tt-pricing -->
+<h2>B10,000</h2>
+<h3>$10,000</h3>
+<ul>
+ 	<li>$14,000 Total ROI</li>
+ 	<li>1 Month System Circle</li>
+ 	<li>10% Referral Bonus</li>
+ 	<li>24/7 Support</li>
+</ul>
+<!-- /.tt-pricing__feature-list -->
+<!-- /.tt-pricing__feature-lists -->
+<a class="tt-btn btn-outline " href="https://invest.biantrex.com/register">
+Sign Up </a>
+<!-- /.gp-pricing__action -->
+<!-- /.tt-pricing -->
+&lt;ul"&gt;
+<ul>
+ 	<li><img src="https://quiety-wp.themetags.com/wp-content/uploads/2022/01/1-2.png" alt="" />
+<!-- /.tt-logo-list__item --></li>
+ 	<li><img src="https://quiety-wp.themetags.com/wp-content/uploads/2022/01/2-1.png" alt="" />
+<!-- /.tt-logo-list__item --></li>
+ 	<li><img src="https://quiety-wp.themetags.com/wp-content/uploads/2022/01/3-1.png" alt="" />
+<!-- /.tt-logo-list__item --></li>
+ 	<li><img src="https://quiety-wp.themetags.com/wp-content/uploads/2022/01/4-1.png" alt="" />
+<!-- /.tt-logo-list__item --></li>
+ 	<li><img src="https://quiety-wp.themetags.com/wp-content/uploads/2022/01/5-1.png" alt="" />
+<!-- /.tt-logo-list__item --></li>
+</ul>
