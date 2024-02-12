@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Job Application Progress Steps</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="progress-steps">
+    <div class="step active">Step 1</div>
+    <div class="step">Step 2</div>
+    <div class="step">Step 3</div>
+    <div class="step">Step 4</div>
+  </div>
+  
+  <div class="form">
+    <h2>Muhammed Job Inc Application</h2>
+    <div class="step-content active">
+      <label for="full-name">Full Name</label>
+      <input type="text" id="full-name" name="full-name" required>
+      
+      <label for="email">Email</label>
+      <input type="email" id="email" name="email" required>
+      
+      <button class="next-btn">Next</button>
+    </div>
+    <div class="step-content">
+      <label for="education">Education</label>
+      <select id="education" name="education" required>
+        <option value="">Select</option>
+        <option value="high-school">High School</option>
+        <option value="bachelor">Bachelor's Degree</option>
+        <option value="master">Master's Degree</option>
+        <option value="phd">Ph.D.</option>
+      </select>
+      
+      <label for="experience">Years of Experience</label>
+      <input type="number" id="experience" name="experience" required>
+      
+      <button class="prev-btn">Previous</button>
+      <button class="next-btn">Next</button>
+    </div>
+    <div class="step-content">
+      <label>Preferred Work Location</label>
+      <div class="checkbox-group">
+        <label for="location1"><input type="checkbox" id="location1" name="location" value="remote"> Remote</label>
+        <label for="location2"><input type="checkbox" id="location2" name="location" value="office"> Office</label>
+        <label for="location3"><input type="checkbox" id="location3" name="location" value="both"> Both</label>
+      </div>
+      
+      <label for="salary">Expected Salary ($)</label>
+      <input type="number" id="salary" name="salary" required>
+      
+      <button class="prev-btn">Previous</button>
+      <button class="next-btn">Next</button>
+    </div>
+    <div class="step-content">
+      <label for="resume">Upload Resume</label>
+      <input type="file" id="resume" name="resume" accept=".pdf,.doc,.docx">
+      
+      <button class="prev-btn">Previous</button>
+      <button type="submit" class="submit-btn">Submit</button>
+    </div>
+  </div>
+  
+  <script src="script.js"></script>
+</body>
+</html>
